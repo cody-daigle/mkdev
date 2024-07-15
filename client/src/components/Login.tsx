@@ -56,7 +56,7 @@ const Login = (): ReactElement => {
         className='glass-card'
         width={mobile ? '90%' : '30%'}
       >
-        <Box alignContent={'center'} className='glass-card'>
+        <Box alignContent={'center'}>
           <Box
             sx={{
               alignSelf: 'center',
